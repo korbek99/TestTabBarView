@@ -8,31 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		574543962071D02400AF4604 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574543952071D02400AF4604 /* AppDelegate.swift */; };
-		574543982071D02400AF4604 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574543972071D02400AF4604 /* ViewController.swift */; };
+		574543982071D02400AF4604 /* NoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574543972071D02400AF4604 /* NoteViewController.swift */; };
 		5745439B2071D02400AF4604 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 574543992071D02400AF4604 /* Main.storyboard */; };
 		5745439E2071D02400AF4604 /* TestTabBarView.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5745439C2071D02400AF4604 /* TestTabBarView.xcdatamodeld */; };
 		574543A02071D02400AF4604 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5745439F2071D02400AF4604 /* Assets.xcassets */; };
 		574543A32071D02400AF4604 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 574543A12071D02400AF4604 /* LaunchScreen.storyboard */; };
 		574543AE2071D02500AF4604 /* TestTabBarViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574543AD2071D02500AF4604 /* TestTabBarViewTests.swift */; };
 		574543B92071D02500AF4604 /* TestTabBarViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574543B82071D02500AF4604 /* TestTabBarViewUITests.swift */; };
-		574543C72071D0F400AF4604 /* ViewControllerFav.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574543C62071D0F400AF4604 /* ViewControllerFav.swift */; };
-		574543D82071DCBE00AF4604 /* 5777959.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543C92071DCBE00AF4604 /* 5777959.jpeg */; };
-		574543D92071DCBE00AF4604 /* 5777967.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543CA2071DCBE00AF4604 /* 5777967.jpeg */; };
-		574543DA2071DCBE00AF4604 /* 5771967.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543CB2071DCBE00AF4604 /* 5771967.jpeg */; };
-		574543DB2071DCBE00AF4604 /* 5771916.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543CC2071DCBE00AF4604 /* 5771916.jpeg */; };
-		574543DC2071DCBE00AF4604 /* 5678940.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543CD2071DCBE00AF4604 /* 5678940.jpeg */; };
-		574543DD2071DCBE00AF4604 /* 5678941.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543CE2071DCBE00AF4604 /* 5678941.jpeg */; };
-		574543DE2071DCBE00AF4604 /* 5678942.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543CF2071DCBE00AF4604 /* 5678942.jpeg */; };
-		574543DF2071DCBE00AF4604 /* 5678945.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543D02071DCBE00AF4604 /* 5678945.jpeg */; };
-		574543E02071DCBE00AF4604 /* 5771915.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543D12071DCBE00AF4604 /* 5771915.jpeg */; };
-		574543E12071DCBE00AF4604 /* 5771966.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543D22071DCBE00AF4604 /* 5771966.jpeg */; };
-		574543E22071DCBE00AF4604 /* 5777958.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543D32071DCBE00AF4604 /* 5777958.jpeg */; };
-		574543E32071DCBE00AF4604 /* 5777964.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543D42071DCBE00AF4604 /* 5777964.jpeg */; };
-		574543E42071DCBE00AF4604 /* 5785639.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 574543D52071DCBE00AF4604 /* 5785639.jpeg */; };
-		574543E52071DCBE00AF4604 /* macbookNew.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 574543D62071DCBE00AF4604 /* macbookNew.jpg */; };
-		574543E62071DCBE00AF4604 /* macmini.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 574543D72071DCBE00AF4604 /* macmini.jpg */; };
-		574543E82071E09800AF4604 /* ViewControllerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574543E72071E09800AF4604 /* ViewControllerTableViewCell.swift */; };
-		574543EA2071E16F00AF4604 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574543E92071E16F00AF4604 /* DetailViewController.swift */; };
+		574543C72071D0F400AF4604 /* DevViewControllerFav.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574543C62071D0F400AF4604 /* DevViewControllerFav.swift */; };
+		57D967E62CA85D6200EEB739 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D967E52CA85D6200EEB739 /* TableViewCell.swift */; };
+		57D967EC2CA85E7200EEB739 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D967EB2CA85E7200EEB739 /* Product.swift */; };
+		57D967FB2CA8929000EEB739 /* TableViewCellDev.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D967FA2CA8929000EEB739 /* TableViewCellDev.swift */; };
+		57D968062CA898B000EEB739 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D968052CA898B000EEB739 /* DetailsViewController.swift */; };
+		57D9680B2CA89A8A00EEB739 /* DetailsViewControllerDev.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D9680A2CA89A8A00EEB739 /* DetailsViewControllerDev.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,7 +43,7 @@
 /* Begin PBXFileReference section */
 		574543922071D02400AF4604 /* TestTabBarView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestTabBarView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		574543952071D02400AF4604 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		574543972071D02400AF4604 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		574543972071D02400AF4604 /* NoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteViewController.swift; sourceTree = "<group>"; };
 		5745439A2071D02400AF4604 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5745439D2071D02400AF4604 /* TestTabBarView.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TestTabBarView.xcdatamodel; sourceTree = "<group>"; };
 		5745439F2071D02400AF4604 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -67,24 +55,12 @@
 		574543B42071D02500AF4604 /* TestTabBarViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestTabBarViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		574543B82071D02500AF4604 /* TestTabBarViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTabBarViewUITests.swift; sourceTree = "<group>"; };
 		574543BA2071D02500AF4604 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		574543C62071D0F400AF4604 /* ViewControllerFav.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerFav.swift; sourceTree = "<group>"; };
-		574543C92071DCBE00AF4604 /* 5777959.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5777959.jpeg; sourceTree = "<group>"; };
-		574543CA2071DCBE00AF4604 /* 5777967.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5777967.jpeg; sourceTree = "<group>"; };
-		574543CB2071DCBE00AF4604 /* 5771967.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5771967.jpeg; sourceTree = "<group>"; };
-		574543CC2071DCBE00AF4604 /* 5771916.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5771916.jpeg; sourceTree = "<group>"; };
-		574543CD2071DCBE00AF4604 /* 5678940.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5678940.jpeg; sourceTree = "<group>"; };
-		574543CE2071DCBE00AF4604 /* 5678941.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5678941.jpeg; sourceTree = "<group>"; };
-		574543CF2071DCBE00AF4604 /* 5678942.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5678942.jpeg; sourceTree = "<group>"; };
-		574543D02071DCBE00AF4604 /* 5678945.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5678945.jpeg; sourceTree = "<group>"; };
-		574543D12071DCBE00AF4604 /* 5771915.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5771915.jpeg; sourceTree = "<group>"; };
-		574543D22071DCBE00AF4604 /* 5771966.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5771966.jpeg; sourceTree = "<group>"; };
-		574543D32071DCBE00AF4604 /* 5777958.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5777958.jpeg; sourceTree = "<group>"; };
-		574543D42071DCBE00AF4604 /* 5777964.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5777964.jpeg; sourceTree = "<group>"; };
-		574543D52071DCBE00AF4604 /* 5785639.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5785639.jpeg; sourceTree = "<group>"; };
-		574543D62071DCBE00AF4604 /* macbookNew.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = macbookNew.jpg; sourceTree = "<group>"; };
-		574543D72071DCBE00AF4604 /* macmini.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = macmini.jpg; sourceTree = "<group>"; };
-		574543E72071E09800AF4604 /* ViewControllerTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerTableViewCell.swift; sourceTree = "<group>"; };
-		574543E92071E16F00AF4604 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		574543C62071D0F400AF4604 /* DevViewControllerFav.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DevViewControllerFav.swift; sourceTree = "<group>"; };
+		57D967E52CA85D6200EEB739 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		57D967EB2CA85E7200EEB739 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		57D967FA2CA8929000EEB739 /* TableViewCellDev.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellDev.swift; sourceTree = "<group>"; };
+		57D968052CA898B000EEB739 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		57D9680A2CA89A8A00EEB739 /* DetailsViewControllerDev.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewControllerDev.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,17 +111,15 @@
 		574543942071D02400AF4604 /* TestTabBarView */ = {
 			isa = PBXGroup;
 			children = (
+				57D967F22CA88DF000EEB739 /* LauchScreen */,
+				57D967F12CA88DDE00EEB739 /* StoryBoard */,
+				57D967F02CA88DC400EEB739 /* ViewControllers */,
+				57D967EA2CA85E1400EEB739 /* Model */,
 				574543C82071D8C700AF4604 /* Img */,
 				574543952071D02400AF4604 /* AppDelegate.swift */,
-				574543972071D02400AF4604 /* ViewController.swift */,
-				574543C62071D0F400AF4604 /* ViewControllerFav.swift */,
-				574543E72071E09800AF4604 /* ViewControllerTableViewCell.swift */,
-				574543992071D02400AF4604 /* Main.storyboard */,
 				5745439F2071D02400AF4604 /* Assets.xcassets */,
-				574543A12071D02400AF4604 /* LaunchScreen.storyboard */,
 				574543A42071D02400AF4604 /* Info.plist */,
 				5745439C2071D02400AF4604 /* TestTabBarView.xcdatamodeld */,
-				574543E92071E16F00AF4604 /* DetailViewController.swift */,
 			);
 			path = TestTabBarView;
 			sourceTree = "<group>";
@@ -171,23 +145,77 @@
 		574543C82071D8C700AF4604 /* Img */ = {
 			isa = PBXGroup;
 			children = (
-				574543C92071DCBE00AF4604 /* 5777959.jpeg */,
-				574543CA2071DCBE00AF4604 /* 5777967.jpeg */,
-				574543CB2071DCBE00AF4604 /* 5771967.jpeg */,
-				574543CC2071DCBE00AF4604 /* 5771916.jpeg */,
-				574543CD2071DCBE00AF4604 /* 5678940.jpeg */,
-				574543CE2071DCBE00AF4604 /* 5678941.jpeg */,
-				574543CF2071DCBE00AF4604 /* 5678942.jpeg */,
-				574543D02071DCBE00AF4604 /* 5678945.jpeg */,
-				574543D12071DCBE00AF4604 /* 5771915.jpeg */,
-				574543D22071DCBE00AF4604 /* 5771966.jpeg */,
-				574543D32071DCBE00AF4604 /* 5777958.jpeg */,
-				574543D42071DCBE00AF4604 /* 5777964.jpeg */,
-				574543D52071DCBE00AF4604 /* 5785639.jpeg */,
-				574543D62071DCBE00AF4604 /* macbookNew.jpg */,
-				574543D72071DCBE00AF4604 /* macmini.jpg */,
 			);
 			name = Img;
+			sourceTree = "<group>";
+		};
+		57D967EA2CA85E1400EEB739 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				57D967EB2CA85E7200EEB739 /* Product.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		57D967F02CA88DC400EEB739 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				57D968162CA8A08100EEB739 /* Device */,
+				57D968152CA8A07B00EEB739 /* Note */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		57D967F12CA88DDE00EEB739 /* StoryBoard */ = {
+			isa = PBXGroup;
+			children = (
+				574543992071D02400AF4604 /* Main.storyboard */,
+			);
+			name = StoryBoard;
+			sourceTree = "<group>";
+		};
+		57D967F22CA88DF000EEB739 /* LauchScreen */ = {
+			isa = PBXGroup;
+			children = (
+				574543A12071D02400AF4604 /* LaunchScreen.storyboard */,
+			);
+			name = LauchScreen;
+			sourceTree = "<group>";
+		};
+		57D967F32CA88E0500EEB739 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				57D967E52CA85D6200EEB739 /* TableViewCell.swift */,
+			);
+			name = Cells;
+			sourceTree = "<group>";
+		};
+		57D968152CA8A07B00EEB739 /* Note */ = {
+			isa = PBXGroup;
+			children = (
+				57D967F32CA88E0500EEB739 /* Cells */,
+				574543972071D02400AF4604 /* NoteViewController.swift */,
+				57D968052CA898B000EEB739 /* DetailsViewController.swift */,
+			);
+			name = Note;
+			sourceTree = "<group>";
+		};
+		57D968162CA8A08100EEB739 /* Device */ = {
+			isa = PBXGroup;
+			children = (
+				57D968172CA8A09D00EEB739 /* Cells */,
+				57D9680A2CA89A8A00EEB739 /* DetailsViewControllerDev.swift */,
+				574543C62071D0F400AF4604 /* DevViewControllerFav.swift */,
+			);
+			name = Device;
+			sourceTree = "<group>";
+		};
+		57D968172CA8A09D00EEB739 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				57D967FA2CA8929000EEB739 /* TableViewCellDev.swift */,
+			);
+			name = Cells;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,7 +286,7 @@
 				TargetAttributes = {
 					574543912071D02400AF4604 = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 2U7FA696SS;
+						DevelopmentTeam = 828LF57WA4;
 						ProvisioningStyle = Automatic;
 					};
 					574543A82071D02500AF4604 = {
@@ -280,6 +308,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -300,24 +329,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				574543E62071DCBE00AF4604 /* macmini.jpg in Resources */,
-				574543DF2071DCBE00AF4604 /* 5678945.jpeg in Resources */,
 				574543A32071D02400AF4604 /* LaunchScreen.storyboard in Resources */,
-				574543DD2071DCBE00AF4604 /* 5678941.jpeg in Resources */,
-				574543DB2071DCBE00AF4604 /* 5771916.jpeg in Resources */,
-				574543D82071DCBE00AF4604 /* 5777959.jpeg in Resources */,
-				574543E52071DCBE00AF4604 /* macbookNew.jpg in Resources */,
-				574543D92071DCBE00AF4604 /* 5777967.jpeg in Resources */,
-				574543DE2071DCBE00AF4604 /* 5678942.jpeg in Resources */,
-				574543E32071DCBE00AF4604 /* 5777964.jpeg in Resources */,
-				574543E12071DCBE00AF4604 /* 5771966.jpeg in Resources */,
-				574543E02071DCBE00AF4604 /* 5771915.jpeg in Resources */,
 				574543A02071D02400AF4604 /* Assets.xcassets in Resources */,
-				574543E42071DCBE00AF4604 /* 5785639.jpeg in Resources */,
-				574543E22071DCBE00AF4604 /* 5777958.jpeg in Resources */,
-				574543DA2071DCBE00AF4604 /* 5771967.jpeg in Resources */,
 				5745439B2071D02400AF4604 /* Main.storyboard in Resources */,
-				574543DC2071DCBE00AF4604 /* 5678940.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -343,10 +357,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				5745439E2071D02400AF4604 /* TestTabBarView.xcdatamodeld in Sources */,
-				574543982071D02400AF4604 /* ViewController.swift in Sources */,
-				574543E82071E09800AF4604 /* ViewControllerTableViewCell.swift in Sources */,
-				574543EA2071E16F00AF4604 /* DetailViewController.swift in Sources */,
-				574543C72071D0F400AF4604 /* ViewControllerFav.swift in Sources */,
+				57D967EC2CA85E7200EEB739 /* Product.swift in Sources */,
+				57D968062CA898B000EEB739 /* DetailsViewController.swift in Sources */,
+				57D967FB2CA8929000EEB739 /* TableViewCellDev.swift in Sources */,
+				574543982071D02400AF4604 /* NoteViewController.swift in Sources */,
+				57D9680B2CA89A8A00EEB739 /* DetailsViewControllerDev.swift in Sources */,
+				574543C72071D0F400AF4604 /* DevViewControllerFav.swift in Sources */,
+				57D967E62CA85D6200EEB739 /* TableViewCell.swift in Sources */,
 				574543962071D02400AF4604 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -449,6 +466,7 @@
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -491,6 +509,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.2;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -499,12 +518,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2U7FA696SS;
+				DEVELOPMENT_TEAM = 828LF57WA4;
 				INFOPLIST_FILE = TestTabBarView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = KorbekSA.TestTabBarView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -517,7 +536,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = KorbekSA.TestTabBarView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -598,6 +617,7 @@
 				574543BF2071D02500AF4604 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		574543C02071D02500AF4604 /* Build configuration list for PBXNativeTarget "TestTabBarViewTests" */ = {
 			isa = XCConfigurationList;
@@ -606,6 +626,7 @@
 				574543C22071D02500AF4604 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		574543C32071D02500AF4604 /* Build configuration list for PBXNativeTarget "TestTabBarViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -614,6 +635,7 @@
 				574543C52071D02500AF4604 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
